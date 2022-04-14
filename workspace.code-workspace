@@ -1,0 +1,22 @@
+{
+  "folders": [
+	{
+		"path": "..\\minigame"
+	},
+	{
+		"path": "..\\javascript"
+	},
+	{
+		"path": "..\\navbar_2"
+	},
+	{
+		"path": "..\\navbar"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "findNum"
+  }
+}
